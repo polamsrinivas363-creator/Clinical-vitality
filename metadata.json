@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Vitality",
+  "description": "Next-generation pet wellness and AI-assisted veterinary clinical triage platform providing real-time vitals monitoring, diagnostic intelligence, and 24/7 emergency care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
